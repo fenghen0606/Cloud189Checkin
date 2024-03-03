@@ -1,3 +1,3 @@
 module.exports = {
-  sendKey: process.env.SENDKEY || '',
+  sendKey: SCT17480TMTSh1I9AXwJtqgLySHt8t1cj || '',
 };
